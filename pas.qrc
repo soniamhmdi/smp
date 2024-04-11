@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>pas1.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>pas2.png</file>
+        <file>pas3.jpg</file>
+        <file>pas4.png</file>
+        <file>pas5.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix3"/>
+    <qresource prefix="/new/prefix4"/>
+    <qresource prefix="/new/prefix5"/>
+    <qresource prefix="/new/prefix6"/>
+</RCC>
